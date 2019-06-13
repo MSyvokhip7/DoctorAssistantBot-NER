@@ -1,0 +1,5 @@
+spacy
+plac
+tqdm
+pandas
+telebot
