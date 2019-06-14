@@ -14,7 +14,7 @@ Welcome to DoctorAssistantBot!
 
 3. Ner_train.ipynb - python notebook that is used to train and store NER model.
 
-4. disease_detection.py - python file that has the main algorithm to detect diseases.
+4. NER.py - python file that has the main algorithm to detect diseases.
 
 ----------
 ### Implementation
